@@ -1,4 +1,4 @@
-# Python Functions, Modules and Package
+# Python Functions, Modules and Packages
 
 ## 1. Differences Between Functions, Modules, and Packages
 
